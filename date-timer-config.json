@@ -1,0 +1,40 @@
+{
+  "version": "0.0.1",
+  "alertData": {
+    "text": "优秀的pdder 开工大吉！",
+    "iconName": "InsertEmoticonIcon",
+    "severity": "success"
+  },
+  "labelCommonStyle": {},
+  "timeCommonStyle": {},
+  "countdownArray": [
+    {
+      "label": "🌸 清明节",
+      "fn": "format",
+      "fnParams": "2024-04-03 20:00:00",
+      "timeStyle": {
+        "backgroundImage": "linear-gradient(to bottom, orange, #fff)",
+        "webkitBackgroundClip": "text",
+        "webkitTextFillColor": "transparent"
+      },
+      "labelStyle": {
+        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
+        "color": "#fff"
+      }
+    },
+    {
+      "label": "🛫 五一",
+      "fn": "format",
+      "fnParams": "2024-04-30 20:00:00",
+      "timeStyle": {
+        "backgroundImage": "linear-gradient(to bottom, #32d1d3, #fff)",
+        "webkitBackgroundClip": "text",
+        "webkitTextFillColor": "transparent"
+      },
+      "labelStyle": {
+        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
+        "color": "#fff"
+      }
+    }
+  ]
+}
