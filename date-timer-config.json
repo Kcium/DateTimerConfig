@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "alertData": {
-    "text": "加油，优秀的pdder",
+    "text": "加油，优秀的pdder!",
     "iconName": "InsertEmoticonIcon",
     "severity": "success"
   },
@@ -31,7 +31,7 @@
       }
     },
     {
-      "label": "🌸 清明节",
+      "label": "🌸 清明节假期",
       "fn": "format",
       "fnParams": "2024-04-03 20:00:00",
       "timeStyle": {
@@ -45,7 +45,7 @@
       }
     },
     {
-      "label": "🛫 五一",
+      "label": "🛫 五一假期",
       "fn": "format",
       "fnParams": "2024-04-30 20:00:00",
       "timeStyle": {
