@@ -1,8 +1,8 @@
 {
   "version": "0.0.1",
   "alertData": {
-    "text": "加油，优秀的pdder!",
-    "iconName": "InsertEmoticonIcon",
+    "text": "煞哥每天都吃涨停板!",
+    "iconName": "CelebrationIcon",
     "severity": "success"
   },
   "labelCommonStyle": {},
