@@ -3,7 +3,7 @@
   "alertData": {
     "text": "煞哥每天都吃涨停板!",
     "iconName": "CelebrationIcon",
-    "severity": "success"
+    "severity": "error"
   },
   "labelCommonStyle": {},
   "timeCommonStyle": {},
