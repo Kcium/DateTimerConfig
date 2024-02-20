@@ -22,6 +22,15 @@
   },
   "countdownArray": [
     {
+      "label": "💵 Next薪资日",
+      "fn": "next15Day",
+      "timeStyle": {},
+      "labelStyle": {
+        "maskImage": "linear-gradient(to right, #edd4b0 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
+        "color": "#fff"
+      }
+    },
+    {
       "label": "🌸 清明节",
       "fn": "format",
       "fnParams": "2024-04-03 20:00:00",
