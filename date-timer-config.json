@@ -1,21 +1,9 @@
 {
   "version": "0.0.1",
   "alertData": {
-    "text": "恭喜龙哥婚期将至!",
+    "text": "煞哥每天都吃涨停板!",
     "iconName": "CelebrationIcon",
-    "severity": "success",
-    "list": [
-      {
-        "text": "煞哥每天都吃涨停板!",
-        "iconName": "TrendingUpIcon",
-        "severity": "error"
-      }
-      {
-        "text": "恭喜龙哥婚期将至!",
-        "iconName": "CelebrationIcon",
-        "severity": "success"
-      }
-    ]
+    "severity": "error"
   },
   "labelCommonStyle": {},
   "timeCommonStyle": {},
