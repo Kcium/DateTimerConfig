@@ -3,7 +3,19 @@
   "alertData": {
     "text": "恭喜龙哥婚期将至!",
     "iconName": "CelebrationIcon",
-    "severity": "error"
+    "severity": "success",
+    "list": [
+      {
+        "text": "煞哥每天都吃涨停板!",
+        "iconName": "TrendingUpIcon",
+        "severity": "error"
+      }
+      {
+        "text": "恭喜龙哥婚期将至!",
+        "iconName": "CelebrationIcon",
+        "severity": "success"
+      }
+    ]
   },
   "labelCommonStyle": {},
   "timeCommonStyle": {},
