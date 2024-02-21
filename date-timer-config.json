@@ -7,19 +7,6 @@
   },
   "labelCommonStyle": {},
   "timeCommonStyle": {},
-  "backupStyle": {
-    "colors": [
-      "#edd4b0",
-      "#84c7fc",
-      "#7fc8d1",
-      "#00e2ff"
-    ],
-    "backgroundImage": "linear-gradient(to bottom, orange, #fff)",
-    "webkitBackgroundClip": "text",
-    "webkitTextFillColor": "transparent",
-    "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
-    "color": "#fff"
-  },
   "countdownArray": [
     {
       "label": "💵 Next薪资日",
