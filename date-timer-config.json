@@ -14,6 +14,11 @@
         "text": "恭喜龙哥婚期将至!",
         "iconName": "CelebrationIcon",
         "severity": "success"
+      },
+      {
+        "text": "加油，优秀的pdder!",
+        "iconName": "SentimentSatisfiedAltIcon",
+        "severity": "success"
       }
     ]
   },
