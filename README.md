@@ -22,3 +22,31 @@ AcUnitIcon
 <img width="215" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/3dc754b5-b7a3-4e8a-9160-ce6841994b7c"><br />
 CelebrationIcon | CakeIcon
 <br />
+<img width="172" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/98928fd4-ede2-458d-a0b6-668039aac70b"><br />
+<br />
+TrendingUpIcon
+<br />
+<img width="167" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/a4ef6257-5b3b-451a-a51f-af5da121c929"><br />
+TrendingDownIcon
+<br />
+<img width="131" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/650a21b0-37b3-47b7-ac97-ddb0e9fe2c43"><br />
+BedtimeIcon
+<br />
+<img width="151" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/4750b5f9-026f-4df9-9e9d-b53ad6d1e80a"><br />
+SportsBasketballIcon
+<br />
+<img width="158" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/9e687092-458b-48e9-9af2-a7e438442efe"><br />
+SportsSoccerIcon
+<br />
+<img width="146" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/a1b46bf7-ef58-4159-9cab-6e3716513bd8"><br />
+SportsBaseballIcon
+<br />
+<img width="126" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/7ea9ec3d-2c46-4c38-8485-eab761aa6021"><br />
+FlightTakeoffIcon
+<br />
+<img width="123" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/66fc35b4-010e-44ae-ba33-9823d4c0d614"><br />
+FitnessCenterIcon
+<br />
+<img width="144" alt="image" src="https://github.com/Kcium/DateTimerConfig/assets/20454249/3fc7beed-188b-437e-82fa-e2dffe0330ca"><br />
+SportsEsportsIcon
+<br />
