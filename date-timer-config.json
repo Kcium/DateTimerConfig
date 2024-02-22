@@ -2,10 +2,12 @@
   "version": "0.0.1",
   "forceUseSeverData": false,
   "alertData": {
-    "text": "加油，优秀的pdder!",
-    "iconName": "SentimentSatisfiedAltIcon",
-    "severity": "success",
     "list": [
+      {
+        "text": "加油，优秀的pdder!",
+        "iconName": "SentimentSatisfiedAltIcon",
+        "severity": "success"
+      },
       {
         "text": "煞哥每天都吃涨停板!",
         "iconName": "TrendingUpIcon",
@@ -15,11 +17,6 @@
         "text": "恭喜龙哥婚期将至!",
         "iconName": "CelebrationIcon",
         "severity": "warning"
-      },
-      {
-        "text": "加油，优秀的pdder!",
-        "iconName": "SentimentSatisfiedAltIcon",
-        "severity": "success"
       }
     ]
   },
