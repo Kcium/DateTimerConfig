@@ -9,14 +9,9 @@
         "severity": "success"
       },
       {
-        "text": "煞哥每天都吃涨停板!",
-        "iconName": "TrendingUpIcon",
-        "severity": "error"
-      },
-      {
-        "text": "恭喜龙哥婚期将至!",
+        "text": "洋溢着乐观向上的氛围!",
         "iconName": "CelebrationIcon",
-        "severity": "warning"
+        "severity": "error"
       }
     ]
   },
@@ -61,6 +56,18 @@
         "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
         "color": "#fff"
       }
+    }
+  ],
+  "__backup1": [
+    {
+      "text": "煞哥每天都吃涨停板!",
+      "iconName": "TrendingUpIcon",
+      "severity": "error"
+    },
+    {
+      "text": "恭喜龙哥婚期将至!",
+      "iconName": "CelebrationIcon",
+      "severity": "warning"
     }
   ]
 }
