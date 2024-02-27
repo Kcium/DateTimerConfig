@@ -19,18 +19,9 @@
   "timeCommonStyle": {},
   "countdownArray": [
     {
-      "label": "💵 Next薪资日",
-      "fn": "next15Day",
-      "timeStyle": {},
-      "labelStyle": {
-        "maskImage": "linear-gradient(to right, #edd4b0 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
-        "color": "#fff"
-      }
-    },
-    {
       "label": "🌸 清明节放假",
       "fn": "format",
-      "fnParams": "2024-04-03 20:00:00",
+      "fnParams": "2024-04-04 00:00:00",
       "timeStyle": {
         "backgroundImage": "linear-gradient(to bottom, orange, #fff)",
         "WebkitBackgroundClip": "text",
@@ -44,7 +35,7 @@
     {
       "label": "🛫 五一放假",
       "fn": "format",
-      "fnParams": "2024-04-30 20:00:00",
+      "fnParams": "2024-05-01 00:00:00",
       "timeStyle": {
         "backgroundImage": "linear-gradient(to bottom, #32d1d3, #fff)",
         "WebkitBackgroundClip": "text",
@@ -57,6 +48,15 @@
     }
   ],
   "__backup": [
+    {
+      "label": "💵 Next薪资日",
+      "fn": "next15Day",
+      "timeStyle": {},
+      "labelStyle": {
+        "maskImage": "linear-gradient(to right, #edd4b0 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
+        "color": "#fff"
+      }
+    }
   ],
   "__backup1": [
     {
