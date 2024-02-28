@@ -4,6 +4,11 @@
   "alertData": {
     "list": [
       {
+        "text": "The bulls are back, come back soon!",
+        "iconName": "TrendingUpIcon",
+        "severity": "error"
+      },
+      {
         "text": "加油，优秀的pdder!",
         "iconName": "SentimentSatisfiedAltIcon",
         "severity": "success"
