@@ -24,11 +24,25 @@
   "timeCommonStyle": {},
   "countdownArray": [
     {
-      "label": "🌸 清明节放假",
+      "label": "🌸 清明节假期",
       "fn": "format",
       "fnParams": "2024-04-04 00:00:00",
       "timeStyle": {
         "backgroundImage": "linear-gradient(to bottom, orange, #fff)",
+        "WebkitBackgroundClip": "text",
+        "WebkitTextFillColor": "transparent"
+      },
+      "labelStyle": {
+        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
+        "color": "#fff"
+      }
+    },
+    {
+      "label": "🛫 五一假期",
+      "fn": "format",
+      "fnParams": "2024-05-01 00:00:00",
+      "timeStyle": {
+        "backgroundImage": "linear-gradient(to bottom, #32d1d3, #fff)",
         "WebkitBackgroundClip": "text",
         "WebkitTextFillColor": "transparent"
       },
@@ -45,20 +59,6 @@
       "timeStyle": {},
       "labelStyle": {
         "maskImage": "linear-gradient(to right, #edd4b0 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
-        "color": "#fff"
-      }
-    },
-    {
-      "label": "🛫 五一放假",
-      "fn": "format",
-      "fnParams": "2024-05-01 00:00:00",
-      "timeStyle": {
-        "backgroundImage": "linear-gradient(to bottom, #32d1d3, #fff)",
-        "WebkitBackgroundClip": "text",
-        "WebkitTextFillColor": "transparent"
-      },
-      "labelStyle": {
-        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
         "color": "#fff"
       }
     }
