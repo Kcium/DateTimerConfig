@@ -68,6 +68,20 @@
       }
     }
   ],
+  "calendar": {
+    "badgeRange": [
+      {
+        "startDate": "2024-04-04",
+        "startTs": 0,
+        "endDate": "2024-04-06",
+        "endTs": 0,
+        "badge": "♨︎"
+      }
+    ],
+    "badge": {
+      "2024-04-05": "🌼"
+    }
+  },
   "__backup": [
     {
       "label": "💵 Next薪资日",
