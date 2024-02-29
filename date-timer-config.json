@@ -5,18 +5,26 @@
     "list": [
       {
         "text": "The bulls are back, come back soon!",
+        "textV1": {
+          "EN": "The bulls are back, come back soon!",
+          "ZH": "牛归，速回!"
+        },
         "iconName": "TrendingUpIcon",
+        "severity": "error"
+      },
+      {
+        "text": "洋溢着乐观向上的氛围!",
+        "textV1": {
+          "EN": "Brimming with hope and confidence",
+          "ZH": "洋溢着乐观向上的氛围!"
+        },
+        "iconName": "CelebrationIcon",
         "severity": "error"
       },
       {
         "text": "加油，优秀的pdder!",
         "iconName": "SentimentSatisfiedAltIcon",
         "severity": "success"
-      },
-      {
-        "text": "洋溢着乐观向上的氛围!",
-        "iconName": "CelebrationIcon",
-        "severity": "error"
       }
     ]
   },
@@ -25,6 +33,10 @@
   "countdownArray": [
     {
       "label": "🌸 清明节假期",
+      "labelV1": {
+        "EN": "🌸 Qingming",
+        "ZH": "🌸 清明节假期"
+      },
       "fn": "format",
       "fnParams": "2024-04-04 00:00:00",
       "timeStyle": {
@@ -39,6 +51,10 @@
     },
     {
       "label": "🛫 五一假期",
+      "labelV1": {
+        "EN": "🛫 May Day",
+        "ZH": "🛫 五一假期"
+      },
       "fn": "format",
       "fnParams": "2024-05-01 00:00:00",
       "timeStyle": {
