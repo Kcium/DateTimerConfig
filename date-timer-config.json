@@ -20,11 +20,6 @@
         },
         "iconName": "CelebrationIcon",
         "severity": "error"
-      },
-      {
-        "text": "加油，优秀的pdder!",
-        "iconName": "SentimentSatisfiedAltIcon",
-        "severity": "success"
       }
     ]
   },
@@ -69,74 +64,11 @@
     }
   ],
   "calendar": {
-    "badgeRange": [
-      {
-        "startDate": "2024-04-04",
-        "startTs": 0,
-        "endDate": "2024-04-06",
-        "endTs": 0,
-        "badge": "🌸︎"
-      },
-      {
-        "startDate": "2024-05-01",
-        "startTs": 0,
-        "endDate": "2024-05-05",
-        "endTs": 0,
-        "badge": "😎︎"
-      },
-      {
-        "startDate": "2024-06-08",
-        "startTs": 0,
-        "endDate": "2024-06-10",
-        "endTs": 0,
-        "badge": "😎︎"
-      },
-      {
-        "startDate": "2024-09-15",
-        "startTs": 0,
-        "endDate": "2024-09-17",
-        "endTs": 0,
-        "badge": "😎︎"
-      },
-      {
-        "startDate": "2024-10-01",
-        "startTs": 0,
-        "endDate": "2024-10-07",
-        "endTs": 0,
-        "badge": "🇨🇳"
-      }
-    ],
     "badge": {
-      "2024-04-04": "🌼",
       "2024-05-01": "🛫",
       "2024-05-05": "🛬",
-      "2024-06-10": "🫔",
       "2024-09-17": "🎑",
-      "2024-10-01": "🛫",
       "2024-10-07": "🛬"
     }
-  },
-  "__backup": [
-    {
-      "label": "💵 Next薪资日",
-      "fn": "next15Day",
-      "timeStyle": {},
-      "labelStyle": {
-        "maskImage": "linear-gradient(to right, #edd4b0 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
-        "color": "#fff"
-      }
-    }
-  ],
-  "__backup1": [
-    {
-      "text": "煞哥每天都吃涨停板!",
-      "iconName": "TrendingUpIcon",
-      "severity": "error"
-    },
-    {
-      "text": "恭喜龙哥婚期将至!",
-      "iconName": "CelebrationIcon",
-      "severity": "warning"
-    }
-  ]
+  }
 }
