@@ -1,1 +1,16 @@
-{}
+{
+  "forceStop": false,
+  "notifications": [
+    {
+      "labelV1": {
+        "ZH": "这是一个美好的时间",
+        "EN": "This is a wonderful time"
+      },
+      "titleV1": {
+        "ZH": "日程提醒",
+        "EN": "Days Matter"
+      },
+      "time": "2024-03-05 21:30:00"
+    }
+  ]
+}
