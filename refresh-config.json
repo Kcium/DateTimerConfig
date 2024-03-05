@@ -3,14 +3,14 @@
   "notifications": [
     {
       "labelV1": {
-        "ZH": "这是一个美好的时间",
-        "EN": "This is a wonderful time"
+        "ZH": "明天是3.8妇女节",
+        "EN": "Tomorrow is International Women's Day"
       },
       "titleV1": {
         "ZH": "日程提醒",
         "EN": "Days Matter"
       },
-      "time": "2024-03-05 21:48:00"
+      "time": "2024-03-07 11:30:00"
     }
   ]
 }
