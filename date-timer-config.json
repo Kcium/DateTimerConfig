@@ -3,15 +3,6 @@
   "alertData": {
     "list": [
       {
-        "text": "The bulls are back, come back soon!",
-        "textV1": {
-          "EN": "The bulls are back, come back soon!",
-          "ZH": "牛归，速回!"
-        },
-        "iconName": "TrendingUpIcon",
-        "severity": "error"
-      },
-      {
         "text": "洋溢着乐观向上的氛围!",
         "textV1": {
           "EN": "Brimming with hope and confidence",
