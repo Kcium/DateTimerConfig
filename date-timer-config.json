@@ -30,8 +30,7 @@
         "WebkitTextFillColor": "transparent"
       },
       "labelStyle": {
-        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
-        "color": "#fff"
+        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)"
       }
     },
     {
@@ -48,8 +47,7 @@
         "WebkitTextFillColor": "transparent"
       },
       "labelStyle": {
-        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)",
-        "color": "#fff"
+        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)"
       }
     }
   ],
