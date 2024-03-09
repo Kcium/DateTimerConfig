@@ -24,11 +24,7 @@
       },
       "fn": "format",
       "fnParams": "2024-04-04 00:00:00",
-      "timeStyle": {
-        "backgroundImage": "linear-gradient(to bottom, orange, #fff)",
-        "WebkitBackgroundClip": "text",
-        "WebkitTextFillColor": "transparent"
-      },
+      "timeStyle": {},
       "labelStyle": {}
     },
     {
@@ -39,11 +35,7 @@
       },
       "fn": "format",
       "fnParams": "2024-05-01 00:00:00",
-      "timeStyle": {
-        "backgroundImage": "linear-gradient(to bottom, #32d1d3, #fff)",
-        "WebkitBackgroundClip": "text",
-        "WebkitTextFillColor": "transparent"
-      },
+      "timeStyle": {},
       "labelStyle": {}
     }
   ],
