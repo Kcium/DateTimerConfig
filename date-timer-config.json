@@ -29,9 +29,7 @@
         "WebkitBackgroundClip": "text",
         "WebkitTextFillColor": "transparent"
       },
-      "labelStyle": {
-        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)"
-      }
+      "labelStyle": {}
     },
     {
       "label": "🛫 五一假期",
@@ -46,9 +44,7 @@
         "WebkitBackgroundClip": "text",
         "WebkitTextFillColor": "transparent"
       },
-      "labelStyle": {
-        "maskImage": "linear-gradient(to right, rgba(0, 0, 0, 1) 14.7px, rgba(0, 0, 0, 0.7) 14.7px 100%)"
-      }
+      "labelStyle": {}
     }
   ],
   "calendar": {
