@@ -4,11 +4,11 @@
     "list": [
       {
         "textV1": {
-          "EN": "Brimming with hope and confidence",
-          "ZH": "洋溢着乐观向上的氛围!"
+          "EN": "If your version below 1.0.36, Please update.",
+          "ZH": "如果你的版本低于1.0.36，请更新到最新版本"
         },
-        "iconName": "CelebrationIcon",
-        "severity": "error"
+        "iconName": "SentimentDissatisfiedIcon",
+        "severity": "warning"
       }
     ]
   },
