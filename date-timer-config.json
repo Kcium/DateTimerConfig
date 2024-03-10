@@ -12,8 +12,8 @@
       }
     ]
   },
-  "labelCommonStyle": {},
-  "timeCommonStyle": {},
+  "sxLable": {},
+  "sxTime": {},
   "countdownArray": [
     {
       "label": "🌸 清明节假期",
@@ -22,9 +22,7 @@
         "ZH": "🌸 清明节假期"
       },
       "fn": "format",
-      "fnParams": "2024-04-04 00:00:00",
-      "timeStyle": {},
-      "labelStyle": {}
+      "fnParams": "2024-04-04 00:00:00"
     },
     {
       "label": "🛫 五一假期",
@@ -33,9 +31,7 @@
         "ZH": "🛫 五一假期"
       },
       "fn": "format",
-      "fnParams": "2024-05-01 00:00:00",
-      "timeStyle": {},
-      "labelStyle": {}
+      "fnParams": "2024-05-01 00:00:00"
     }
   ],
   "calendar": {
