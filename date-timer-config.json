@@ -16,6 +16,7 @@
   "sxTime": {},
   "countdownArray": [
     {
+      "color": "warning-linear",
       "label": "🌸 清明节假期",
       "labelV1": {
         "EN": "🌸 Qingming",
