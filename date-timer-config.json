@@ -9,6 +9,14 @@
         },
         "iconName": "SentimentDissatisfiedIcon",
         "severity": "warning"
+      },
+      {
+        "textV1": {
+          "EN": "Brimming with hope and confidence",
+          "ZH": "洋溢着乐观向上的氛围!"
+        },
+        "iconName": "CelebrationIcon",
+        "severity": "error"
       }
     ]
   },
