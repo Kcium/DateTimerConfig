@@ -3,6 +3,17 @@
   "notifications": [
     {
       "labelV1": {
+        "ZH": "如果你的版本低于1.0.36，请更新到最新版本",
+        "EN": "If your version below 1.0.36, Please update."
+      },
+      "titleV1": {
+        "ZH": "日程提醒",
+        "EN": "Days Matter"
+      },
+      "time": "2024-03-11 16:00:00"
+    },
+    {
+      "labelV1": {
         "ZH": "清明节还有3周",
         "EN": "There are 3 weeks left until Qingming"
       },
