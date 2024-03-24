@@ -3,17 +3,6 @@
   "notifications": [
     {
       "labelV1": {
-        "ZH": "清明节还有1周",
-        "EN": "There are 1 weeks left until Qingming"
-      },
-      "titleV1": {
-        "ZH": "日程提醒",
-        "EN": "Days Matter"
-      },
-      "time": "2024-03-28 11:00:00"
-    },
-    {
-      "labelV1": {
         "ZH": "五一还有4周",
         "EN": "There are 4 weeks left until May Day"
       },
