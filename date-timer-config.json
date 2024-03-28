@@ -7,7 +7,7 @@
   "sxTime": {},
   "countdownArray": [
     {
-      "id": "ser240404",
+      "id": "__s240404",
       "color": "warning-linear",
       "label": "🌸 清明节假期",
       "labelV1": {
@@ -18,7 +18,7 @@
       "fnParams": "2024-04-04 00:00:00"
     },
     {
-      "id": "ser240501",
+      "id": "__s240501",
       "label": "🛫 五一假期",
       "labelV1": {
         "EN": "🛫 May Day",
