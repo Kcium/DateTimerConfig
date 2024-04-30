@@ -1,6 +1,6 @@
 {
   "forceStop": false,
-  "notifications": [
+  "__notifications": [
     {
       "labelV1": {
         "ZH": "明天是五一",
