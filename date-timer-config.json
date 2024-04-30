@@ -7,7 +7,6 @@
           "EN": "Brimming with hope and confidence",
           "ZH": "洋溢着乐观向上的氛围!"
         },
-        "iconName": "CelebrationIcon",
         "severity": "error"
       }
     ]
@@ -37,14 +36,14 @@
   "sxTime": {},
   "countdownArray": [
     {
-      "id": "__s240501",
-      "label": "🛫 五一假期",
+      "id": "__s240608",
+      "label": "🚣 端午假期",
       "labelV1": {
-        "EN": "🛫 May Day",
-        "ZH": "🛫 五一假期"
+        "EN": "🚣 DuanwuFestival",
+        "ZH": "🚣 端午假期"
       },
       "fn": "format",
-      "fnParams": "2024-05-01 00:00:00"
+      "fnParams": "2024-06-08 00:00:00"
     }
   ],
   "calendar": {
