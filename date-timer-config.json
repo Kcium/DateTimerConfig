@@ -40,7 +40,7 @@
   },
   "sxLable": {},
   "sxTime": {},
-  "countdownArray": [
+  "__countdownArray": [
     {
       "id": "__s240608",
       "label": "🚣 端午假期",
@@ -52,7 +52,7 @@
       "fnParams": "2024-06-08 00:00:00"
     }
   ],
-  "__countdownArray": [
+  "countdownArray": [
     {
       "id": "__s240915",
       "label": "🎑 中秋节",
