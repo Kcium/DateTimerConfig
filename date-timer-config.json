@@ -82,6 +82,16 @@
       },
       "fn": "format",
       "fnParams": "2025-01-01 00:00:00"
+    },
+    {
+      "id": "__s250129",
+      "label": "🎇 春节",
+      "labelV1": {
+        "EN": "SpringFestival",
+        "ZH": "🎇 春节"
+      },
+      "fn": "format",
+      "fnParams": "2025-01-29 00:00:00"
     }
   ],
   "calendar": {
