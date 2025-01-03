@@ -54,16 +54,6 @@
   ],
   "countdownArray": [
     {
-      "id": "__s250101",
-      "label": "🐍 元旦",
-      "labelV1": {
-        "EN": "🐍 New Year",
-        "ZH": "🐍 元旦"
-      },
-      "fn": "format",
-      "fnParams": "2025-01-01 00:00:00"
-    },
-    {
       "id": "__s250129",
       "label": "🎇 春节",
       "labelV1": {
