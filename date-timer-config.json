@@ -1,5 +1,18 @@
 {
   "version": "0.0.1",
+  "alertDataV1": {
+    "list": [
+      {
+        "textV1": {
+          "EN": "The new version already supports the function of pinning the countdown.",
+          "ZH": "新版本已支持倒计时置顶功能"
+        },
+        "severity": "info",
+        "lessV": "1.1.8.0",
+        "id": "__a250123"
+      }
+    ]
+  },
   "__alertData": {
     "list": [
       {
@@ -75,7 +88,8 @@
       "2024-09-15": "NW",
       "2024-10-06": "W",
       "2024-10-07": "W",
-      "2024-10-13": "NW"
+      "2024-10-13": "NW",
+      "2025-02-09": "NW"
     }
   }
 }
