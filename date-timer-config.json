@@ -4,11 +4,10 @@
     "list": [
       {
         "textV1": {
-          "EN": "The new version already supports the function of pinning the countdown.",
-          "ZH": "新版本已支持倒计时置顶功能"
+          "EN": "The latest version already supports the function of pinning the countdown.",
+          "ZH": "最新版本已支持倒计时置顶功能"
         },
         "severity": "info",
-        "lessV": "1.1.7.99",
         "id": "__a250123"
       }
     ]
