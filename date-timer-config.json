@@ -52,18 +52,6 @@
   },
   "sxLable": {},
   "sxTime": {},
-  "__countdownArray": [
-    {
-      "id": "__s240608",
-      "label": "🚣 端午假期",
-      "labelV1": {
-        "EN": "🚣 DuanwuFestival",
-        "ZH": "🚣 端午假期"
-      },
-      "fn": "format",
-      "fnParams": "2024-06-08 00:00:00"
-    }
-  ],
   "countdownArray": [
     {
       "id": "__s250404",
@@ -84,6 +72,16 @@
       },
       "fn": "format",
       "fnParams": "2025-05-01 00:00:00"
+    },
+        {
+      "id": "__s250531",
+      "label": "🚣 端午假期",
+      "labelV1": {
+        "EN": "🚣 DuanwuFestival",
+        "ZH": "🚣 端午假期"
+      },
+      "fn": "format",
+      "fnParams": "2025-05-31 00:00:00"
     }
   ],
   "calendar": {
