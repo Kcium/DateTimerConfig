@@ -54,16 +54,6 @@
   "sxTime": {},
   "countdownArray": [
     {
-      "id": "__s250404",
-      "label": "🌼 清明",
-      "labelV1": {
-        "EN": "Tomb-SweepingDay",
-        "ZH": "🌼 清明"
-      },
-      "fn": "format",
-      "fnParams": "2025-04-04 00:00:00"
-    },
-        {
       "id": "__s250501",
       "label": "🛫 五一",
       "labelV1": {
