@@ -54,16 +54,6 @@
   "sxTime": {},
   "countdownArray": [
     {
-      "id": "__s250501",
-      "label": "🛫 五一",
-      "labelV1": {
-        "EN": "May Day",
-        "ZH": "🛫 五一"
-      },
-      "fn": "format",
-      "fnParams": "2025-05-01 00:00:00"
-    },
-    {
       "id": "__s250531",
       "label": "🚣 端午假期",
       "labelV1": {
