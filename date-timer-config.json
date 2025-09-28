@@ -52,15 +52,26 @@
   "sxTime": {},
   "countdownArray": [
     {
-      "id": "__s251001",
-      "label": "🇨🇳 国庆假期",
+      "id": "__s260101",
+      "label": "🐎 元旦",
       "labelV1": {
-        "EN": "🚣 NationalFestival",
-        "ZH": "🇨🇳 国庆假期"
+        "EN": "🐎 New Year",
+        "ZH": "🐎 元旦"
       },
       "fn": "format",
       "format": "d~hms",
-      "fnParams": "2025-10-01 00:00:00"
+      "fnParams": "2026-01-01 00:00:00"
+    },
+    {
+      "id": "__s260217",
+      "label": "🎆 春节假期",
+      "labelV1": {
+        "EN": "🎆 Spring Festival",
+        "ZH": "🎆 春节假期"
+      },
+      "fn": "format",
+      "format": "d~hms",
+      "fnParams": "2026-02-16 00:00:00"
     }
   ],
   "calendar": {
