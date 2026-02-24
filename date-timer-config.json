@@ -53,15 +53,15 @@
   "sxTime": {},
   "countdownArray": [
     {
-      "id": "__s260217",
-      "label": "🎆 春节假期",
+      "id": "__s260404",
+      "label": "🌼 清明假期",
       "labelV1": {
-        "EN": "🎆 Spring Festival",
-        "ZH": "🎆 春节假期"
+        "EN": "🌼 Qingming Festival",
+        "ZH": "🌼 清明假期"
       },
       "fn": "format",
       "format": "d~hms",
-      "fnParams": "2026-02-15 00:00:00"
+      "fnParams": "2026-04-04 00:00:00"
     }
   ],
   "calendar": {
