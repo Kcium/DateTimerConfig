@@ -52,29 +52,40 @@
   "sxLable": {},
   "sxTime": {},
   "countdownArray": [
-  {
-    "id": "__s260501",
-    "label": "✈️ 五一假期",
-    "labelV1": {
-      "EN": "✈️ May Day",
-      "ZH": "✈️ 五一假期"
+    {
+      "id": "__s260619",
+      "label": "🚣‍♀️ 端午假期",
+      "labelV1": {
+        "EN": "🚣‍♀️ Duanwu Festival",
+        "ZH": "🚣‍♀️ 端午假期"
+      },
+      "fn": "format",
+      "format": "d~hms",
+      "fnParams": "2026-06-19 00:00:00"
     },
-    "fn": "format",
-    "format": "d~hms",
-    "fnParams": "2026-05-01 00:00:00"
-  },
-  {
-    "id": "__s260619",
-    "label": "🚣‍♀️ 端午假期",
-    "labelV1": {
-      "EN": "🚣‍♀️ Duanwu Festival",
-      "ZH": "🚣‍♀️ 端午假期"
+    {
+      "id": "__s260925",
+      "label": "🌕 中秋节假期",
+      "labelV1": {
+        "EN": "🌕 Mid-Autumn Festival",
+        "ZH": "🌕 中秋节假期"
+      },
+      "fn": "format",
+      "format": "d~hms",
+      "fnParams": "2026-09-25 00:00:00"
     },
-    "fn": "format",
-    "format": "d~hms",
-    "fnParams": "2026-06-19 00:00:00"
-  }
-],
+    {
+      "id": "__s261001",
+      "label": "🇨🇳 十一假期",
+      "labelV1": {
+        "EN": "🇨🇳 National Day Holiday",
+        "ZH": "🇨🇳 十一假期"
+      },
+      "fn": "format",
+      "format": "d~hms",
+      "fnParams": "2026-10-01 00:00:00"
+    }
+  ],
   "calendar": {
     "badge": {},
     "badgeV1": {
@@ -92,7 +103,7 @@
       "2025-05-05": "W",
       "2025-10-08": "W",
       "2025-10-12": "NW",
-      "2026-05-10": "NW",
+      "2026-05-10": "NW"
     }
   }
 }
