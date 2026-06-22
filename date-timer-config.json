@@ -53,17 +53,6 @@
   "sxTime": {},
   "countdownArray": [
     {
-      "id": "__s260619",
-      "label": "🚣‍♀️ 端午假期",
-      "labelV1": {
-        "EN": "🚣‍♀️ Duanwu Festival",
-        "ZH": "🚣‍♀️ 端午假期"
-      },
-      "fn": "format",
-      "format": "d~hms",
-      "fnParams": "2026-06-19 00:00:00"
-    },
-    {
       "id": "__s260925",
       "label": "🌕 中秋节假期",
       "labelV1": {
